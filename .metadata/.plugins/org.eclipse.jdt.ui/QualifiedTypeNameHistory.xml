@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="org.springframework.webflow.config.AbstractFlowConfiguration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.webflow.definition.registry.FlowDefinitionRegistry"/>
+    <fullyQualifiedTypeName name="org.springframework.webflow.executor.FlowExecutor"/>
+    <fullyQualifiedTypeName name="org.springframework.webflow.engine.builder.support.FlowBuilderServices"/>
+    <fullyQualifiedTypeName name="org.springframework.webflow.mvc.builder.MvcViewFactoryCreator"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="org.springframework.webflow.execution.View"/>
+    <fullyQualifiedTypeName name="org.springframework.webflow.execution.RequestContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Description"/>
+</qualifiedTypeNameHistroy>
